@@ -1,6 +1,8 @@
-# adviser
+# Adviser
 
 A new Flutter project.
+
+This project backend was made using Firebase (Google)
 
 ## Getting Started
 
