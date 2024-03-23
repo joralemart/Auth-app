@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "380278720194",
+    "firebase_url": "https://adviser-app-firebase-default-rtdb.firebaseio.com",
+    "project_id": "adviser-app-firebase",
+    "storage_bucket": "adviser-app-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380278720194:android:717f396f0fe8c59838dd5b",
+        "android_client_info": {
+          "package_name": "com.example.adviser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUAiOsvMGr9qz11wSglyXpl_-4RmCDJYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
